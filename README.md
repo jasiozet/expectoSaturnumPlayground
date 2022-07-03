@@ -1,5 +1,11 @@
 # F# backend playground
 
+## Domain
+
+Gathering results for matches for boardgame [7 Wonders](https://www.rprod.com/en/games/7-wonders)
+
+For starters dealing with 3 Player matches.
+
 ## Saturn - for easy backend
 
 ## Expecto - for testing
